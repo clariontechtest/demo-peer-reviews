@@ -5,6 +5,9 @@ using System.Text;
 namespace DelegateTest
 {
     public delegate void PriceChangedHandler(decimal oldPrice, decimal newPrice);
+    /// <summary>
+    /// 
+    /// </summary>
     public class Stock
     {
         string symbol;

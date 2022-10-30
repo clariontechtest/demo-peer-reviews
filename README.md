@@ -1,6 +1,6 @@
 # Git flow
 
-<img src="https://github.com/clariontechtest/demo-peer-reviews/blob/develop/code-review-checklist/gitflow.png" alt="" width="500" height="300" />
+<img src="https://github.com/clariontechtest/demo-peer-reviews/blob/develop/code-review-checklist/gitflow.PNG" alt="" width="500" height="300" />
 
 # Configuration
 

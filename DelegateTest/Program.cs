@@ -24,7 +24,7 @@ namespace DelegateTest
            
         }
 
-        public static string GetDate()
+        public static string GetCurrentDate()
         {
             return DateTime.Now.ToLongDateString();
         }

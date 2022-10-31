@@ -24,6 +24,11 @@ namespace DelegateTest
            
         }
 
+        public static string GetDate()
+        {
+            return DateTime.Now.ToLongDateString();
+        }
+
         private static void CatchTest()
         {
             try

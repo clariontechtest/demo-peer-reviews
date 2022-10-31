@@ -34,6 +34,9 @@
 - All code has passed linting
   - [ ] Yes
   - [ ] Applicable
+- Following [Clean coding priciple](https://knowledgebase.clariontechnologies.co.in/articles/c-coding-guideline-any-object-oriented-language)
+  - [ ] Yes
+  - [ ] Applicable
 
 ### Performance and Scalability
 

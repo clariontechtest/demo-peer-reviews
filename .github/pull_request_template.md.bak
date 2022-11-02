@@ -4,48 +4,48 @@
 
 - Applicable Access modifiers are made as private as possible
   - [ ] Yes
-  - [ ] Not Applicable
+  - [ ] Applicable
 
 ### Maintainence
 
 - All names are clear, descriptive and accurate. Clear naming is preferred over comments
   - [ ] Yes
-  - [ ] Not Applicable
+  - [ ] Applicable
 - Well-named enums are used instead of magic strings and numbers
   - [ ] Yes
-  - [ ] Not Applicable
+  - [ ] Applicable
 - Functions avoid side effects
 
   - [ ] Yes
-  - [ ] Not Applicable
+  - [ ] Applicable
 
 - Conditionals should be positive, not negative
   - [ ] Yes
   - [ ] Applicable
 - Methods do not accept more than 3 parameters
   - [ ] Yes
-  - [ ] Not Applicable
+  - [ ] Applicable
 - All methods and classes do just one thing / follow SRP
   - [ ] Yes
   - [ ] Applicable
 - SOLID principles are adhered to
   - [ ] Yes
-  - [ ] Not Applicable
+  - [ ] Applicable
 - All code has passed linting
   - [ ] Yes
-  - [ ] Not Applicable
+  - [ ] Applicable
 - Following [Clean coding priciple](https://knowledgebase.clariontechnologies.co.in/articles/c-coding-guideline-any-object-oriented-language)
   - [ ] Yes
-  - [ ] Not Applicable
+  - [ ] Applicable
 
 ### Performance and Scalability
 
 - Reviewer has stepped through all modified code paths using a performance data set to look for performance / memory / CPU usage issues
   - [ ] Yes
-  - [ ] Not Applicable
+  - [ ] Applicable
 - Appropriate data structures have been used
   - [ ] Yes
-  - [ ] Not Applicable
+  - [ ] Applicable
 - async / await is used for I/O bound code paths
   - [ ] Yes
-  - [ ] Not Applicable
+  - [ ] Applicable

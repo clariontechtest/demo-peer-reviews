@@ -23,12 +23,6 @@ namespace DelegateTest
 
            
         }
-
-        public static string GetCurrentDate()
-        {
-            return DateTime.Now.ToLongDateString();
-        }
-
         private static void CatchTest()
         {
             try

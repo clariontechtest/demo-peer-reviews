@@ -23,6 +23,12 @@ namespace DelegateTest
 
            
         }
+
+        public DateTime GetCurrentDate()
+        {
+            return DateTime.Now;
+        }
+
         private static void CatchTest()
         {
             try

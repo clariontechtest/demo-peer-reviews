@@ -24,6 +24,9 @@ namespace DelegateTest
            
         }
 
+        /// <summary>
+        /// Add the method
+        /// </summary>
         private static void CatchTest()
         {
             try

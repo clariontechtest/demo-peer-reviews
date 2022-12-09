@@ -4,7 +4,7 @@ namespace DelegateTest
 {
 
     /// <summary>
-    /// Comment
+    /// Comment. test.
     /// </summary>
     class Program
     {
